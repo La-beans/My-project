@@ -1,0 +1,5 @@
+Oats:water, oat flakes, milk, sugar, banana
+cookie:
+cookies:1 cup water, 2 cup flour, 1/2 cup sugar, 1/4 cup vanilla extract
+jollof:rice, stew, water, pepper, fried plantain, chicken, boiled egg, salad 
+waakye:beans, rice, salt, water

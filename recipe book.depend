@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713633705 source:c:\users\joshn\downloads\software dev\class testing\while loops\recipe book\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+
